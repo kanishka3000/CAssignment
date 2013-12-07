@@ -1,0 +1,8 @@
+CA,potato chips,Food
+CA,book,Stationary
+CA,music cd,Entertainment
+CA,sweater,Clothing
+NJ,potato chips,Food
+NJ,book,Stationary
+NJ,music cd,Entertainment
+NJ,sweater,Clothing

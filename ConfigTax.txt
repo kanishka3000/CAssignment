@@ -1,0 +1,5 @@
+CA,Gen,9.75
+CA,Food,0.0
+NJ,Gen,7.0
+NJ,Clothing,0.0
+NJ,Food,0.0
